@@ -39,7 +39,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Bucles ###
 
-- [ ] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
+- [x] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
 
 - [ ] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
 
@@ -57,9 +57,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Booleanos ###
 
-- [ ] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
+- [x] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
 
-- [ ] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
+- [x] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
 
 - [x] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
 
